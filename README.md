@@ -14,7 +14,8 @@ Empathy Map Canvas URL : Mural Link: https://app.mural.co/invitation/mural/aibas
 
 Ideation (Brainstorming) URL: Mural Link: https://app.mural.co/invitation/mural/aibaseddiscourseforbankingin6246/1664728843402?sender=ub94941d3882b842a3e8d2470&key=b5abcdde-333f-4c1a-86e7-e9e91dded2)
 
-[Ideation(Brainstorming).pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705001/Ideation.Brainstorming.pdf)
+[Ideation(Brainstorming).pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9706182/Ideation.Brainstorming.pdf)
+
 
 Literature Survey:
 [Literature Survey.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705002/Literature.Survey.pdf)
