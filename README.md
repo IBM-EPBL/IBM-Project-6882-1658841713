@@ -9,9 +9,11 @@ Problem Statement URL : Miro Link: https://miro.com/app/board/uXjVPRFi7M8=/?shar
 
 
 Empathy Map Canvas URL : Mural Link: https://app.mural.co/invitation/mural/aibaseddiscourseforbankingin6246/1664251963721?sender=ub94941d3882b842a3e8d2470&key=5b794b35-7952-4eaf-959a-5067aa3a355b
+
 [Empathy Map Canvas.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705000/Empathy.Map.Canvas.pdf)
 
 Ideation (Brainstorming) URL: Mural Link: https://app.mural.co/invitation/mural/aibaseddiscourseforbankingin6246/1664728843402?sender=ub94941d3882b842a3e8d2470&key=b5abcdde-333f-4c1a-86e7-e9e91dded2)
+
 [Ideation(Brainstorming).pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705001/Ideation.Brainstorming.pdf)
 
 Literature Survey:
