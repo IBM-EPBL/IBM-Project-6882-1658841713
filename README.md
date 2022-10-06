@@ -26,9 +26,11 @@ Services Used:
 IBM Watson Assistant
 
 Watson Assistant:
+
 ![image](https://user-images.githubusercontent.com/113159759/194334226-af121a32-81d6-4f09-b574-e72a3cf4443a.png)
 
 Technical Architecture:
+
 ![image](https://user-images.githubusercontent.com/113159759/194334343-13d8810c-912e-41b7-bee6-800b7221078c.png)
 
 
