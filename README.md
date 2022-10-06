@@ -2,6 +2,7 @@
 AI BASED DISCOURSE FOR BANKING INDUSTRY
 
 Category: Artificial Intelligence
+
 Skills Required:   Python,NLP,IBM Cloud,IBM Watson Assistant,Deep Learning,Python-Flask
 
 Team ID: PNT2022TMID01193
