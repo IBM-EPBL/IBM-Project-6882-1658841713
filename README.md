@@ -1,6 +1,28 @@
 # IBM-Project-6882-1658841713
 AI BASED DISCOURSE FOR BANKING INDUSTRY
 
+Category: Artificial Intelligence
+Skills Required:   Python,NLP,IBM Cloud,IBM Watson Assistant,Deep Learning,Python-Flask
+
+Team ID: PNT2022TMID01193
+Batch: B5 - 5M1E
+
+Team Leader: Vasumithra S
+Team Member: Priyanka G
+
+Project Description:
+The Bot should be able to guide a customer to create a bank account.
+The Bot should be able to answer loan queries.
+The Bot should be able to answer general banking queries.
+The Bot should be able to answer queries regarding net banking.
+
+Services Used:
+IBM Watson Assistant
+
+Watson Assistant:
+![image](https://user-images.githubusercontent.com/113159759/194326710-a8bc9991-cdc6-4af1-bcb6-8a18f01f3dde.png)
+
+
 Our Banking Bot URL : https://web-chat.global.assistant.watson.appdomain.cloud/preview.html?backgroundImageURL=https%3A%2F%2Fus-south.assistant.watson.cloud.ibm.com%2Fpublic%2Fimages%2Fupx-d06762b6-396b-4236-8512-e118333e6832%3A%3A495bdb54-8670-415a-a8aa-5480cc1528ef&integrationID=2d33609b-c061-4015-9c69-6993e984734c&region=us-south&serviceInstanceID=d06762b6-396b-4236-8512-e118333e6832
 [Creating Assistant and Integrate with Flask Webpage.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705007/Creating.Assistant.and.Integrate.with.Flask.Webpage.pdf)
 
