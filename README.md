@@ -5,6 +5,7 @@ Category: Artificial Intelligence
 Skills Required:   Python,NLP,IBM Cloud,IBM Watson Assistant,Deep Learning,Python-Flask
 
 Team ID: PNT2022TMID01193
+
 Batch: B5 - 5M1E
 
 Team Leader: Vasumithra S
@@ -12,12 +13,17 @@ Team Leader: Vasumithra S
 Team Member: Priyanka G
 
 Project Description:
+
 The Bot should be able to guide a customer to create a bank account.
+
 The Bot should be able to answer loan queries.
+
 The Bot should be able to answer general banking queries.
+
 The Bot should be able to answer queries regarding net banking.
 
 Services Used:
+
 IBM Watson Assistant
 
 
