@@ -68,3 +68,6 @@ Literature Survey:
 
 Proposed Solution:
 [Proposed Solution.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705005/Proposed.Solution.pdf)
+
+Problem Solution fit :
+[Problem - Solution Fit.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9727406/Problem.-.Solution.Fit.pdf)
