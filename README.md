@@ -71,3 +71,7 @@ Proposed Solution:
 
 Problem Solution fit :
 [Problem - Solution Fit.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9727406/Problem.-.Solution.Fit.pdf)
+
+Solution Architecture:
+[Solution Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9727681/Solution.Architecture.pdf)
+
