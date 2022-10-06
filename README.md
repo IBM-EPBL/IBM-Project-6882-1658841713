@@ -26,11 +26,9 @@ Services Used:
 
 IBM Watson Assistant
 
-Watson Assistant:
-![image](https://user-images.githubusercontent.com/113159759/194326710-a8bc9991-cdc6-4af1-bcb6-8a18f01f3dde.png)
+Watson Assistant:![image](https://user-images.githubusercontent.com/113159759/194326710-a8bc9991-cdc6-4af1-bcb6-8a18f01f3dde.png)
 
-Technical Architecture:
-![image](https://user-images.githubusercontent.com/113159759/194327215-5ca62adc-9e83-4d22-aecf-b07669eb8c3e.png)
+Technical Architecture:![image](https://user-images.githubusercontent.com/113159759/194327215-5ca62adc-9e83-4d22-aecf-b07669eb8c3e.png)
 
 Project Objectives:
 
