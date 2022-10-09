@@ -75,3 +75,9 @@ Problem Solution fit :
 Solution Architecture:
 [Solution Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9727681/Solution.Architecture.pdf)
 
+Data Flow Diagram and user stories:
+[Data Flow Diagrams and User Stories.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9741198/Data.Flow.Diagrams.and.User.Stories.pdf)
+
+Solution Requirements:
+[Solution Requirements.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9741203/Solution.Requirements.pdf)
+
