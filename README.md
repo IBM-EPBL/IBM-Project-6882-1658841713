@@ -84,4 +84,8 @@ Solution Requirements:
 Customer Journey Map:
 [Customer Journey Map.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9779085/Customer.Journey.Map.pdf)
 
+Technology Architecture:
+[Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9785354/Technology.Architecture.pdf)
+
+
 
