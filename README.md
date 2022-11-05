@@ -87,5 +87,11 @@ Customer Journey Map:
 Technology Architecture:
 [Technology Architecture.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9785354/Technology.Architecture.pdf)
 
+Prepare Milestones and Activity List:
+[Milestones and Activity List.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9944485/Milestones.and.Activity.List.pdf)
+
+Sprint Delivery Plan:
+[Sprint Delivery Plan.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9944487/Sprint.Delivery.Plan.pdf)
+
 
 
