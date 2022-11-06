@@ -58,6 +58,8 @@ Create IBM Service:
 Creating Skills and Assistant for Chatbot:
 [Creating Skills and Assistant for Chatbot.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9946309/Creating.Skills.and.Assistant.for.Chatbot.pdf)
 
+Creating Assistant and Integrate with Flask Webpage:
+
 [Creating Assistant and Integrate with Flask Webpage.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9705007/Creating.Assistant.and.Integrate.with.Flask.Webpage.pdf)
 
 IDEATION PHASE:
