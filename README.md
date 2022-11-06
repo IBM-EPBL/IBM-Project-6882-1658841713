@@ -99,6 +99,7 @@ Sprint Delivery Plan:
 
 [Sprint - 3.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9945543/Sprint.-.3.pdf)
 
+[Sprint - 4.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9945835/Sprint.-.4.pdf)
 
 
 
