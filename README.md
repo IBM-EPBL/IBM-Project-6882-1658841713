@@ -93,5 +93,13 @@ Prepare Milestones and Activity List:
 Sprint Delivery Plan:
 [Sprint Delivery Plan.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9944487/Sprint.Delivery.Plan.pdf)
 
+[Sprint - 1.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9945541/Sprint.-.1.pdf)
+
+[Sprint - 2.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9945542/Sprint.-.2.pdf)
+
+[Sprint - 3.pdf](https://github.com/IBM-EPBL/IBM-Project-6882-1658841713/files/9945543/Sprint.-.3.pdf)
+
+
+
 
 
